@@ -27,3 +27,5 @@ Create an Account: Sign up with your email and password.
 Create Blog Posts: Add new blog posts with titles, content, and photos.
 Manage Posts: Edit or delete your existing blog posts.
 View Profile: Access your profile to see all your blog posts.
+
+project-video : https://www.linkedin.com/posts/harsh-jain-882214243_internship-reactjs-webdevelopment-activity-7216847872988704768-DC77?utm_source=share&utm_medium=member_desktop
